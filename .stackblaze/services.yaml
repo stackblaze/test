@@ -1,0 +1,7 @@
+# .platform/services.yaml
+mysql:
+    type: mysql:10.4
+    disk: 2048
+
+redis:
+    type: redis:6.0
